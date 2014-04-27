@@ -77,7 +77,6 @@
 		0128D319190C66C40049B6ED /* EatDataVO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EatDataVO.m; path = "Classes/Data Objects/EatDataVO.m"; sourceTree = "<group>"; };
 		0128D31B190CAC890049B6ED /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		0128D31D190CAF0C0049B6ED /* animation_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = animation_sound.mp3; path = Images/animation_sound.mp3; sourceTree = "<group>"; };
-		0128D31F190CCB000049B6ED /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = ../../Monsoonco2/Monsoonco/Classes/Constants.h; sourceTree = "<group>"; };
 		0128D321190CCE620049B6ED /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Classes/MainViewController.h; sourceTree = "<group>"; };
 		0128D322190CCE620049B6ED /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
 		0128D323190CCE620049B6ED /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainViewController.xib; path = Classes/MainViewController.xib; sourceTree = "<group>"; };
@@ -103,6 +102,7 @@
 		0132E7DF190B64390001111A /* LaunchPadViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LaunchPadViewController.xib; path = Classes/LaunchPadViewController.xib; sourceTree = "<group>"; };
 		0132E7E3190B6A560001111A /* CustomButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomButtonView.h; path = Classes/CustomButtonView.h; sourceTree = "<group>"; };
 		0132E7E4190B6A560001111A /* CustomButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CustomButtonView.m; path = Classes/CustomButtonView.m; sourceTree = "<group>"; };
+		0134A96B190D5AA2000A8315 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = Classes/Constants.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,7 +241,7 @@
 				0128D30D190C26E90049B6ED /* Utils */,
 				0128D2E6190BFF1F0049B6ED /* Images */,
 				0132E7B2190B62730001111A /* Supporting Files */,
-				0128D31F190CCB000049B6ED /* Constants.h */,
+				0134A96B190D5AA2000A8315 /* Constants.h */,
 			);
 			path = Monsoonco;
 			sourceTree = "<group>";

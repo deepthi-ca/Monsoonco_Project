@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60EB5371-9129-4A01-943B-BB319D38D387</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Monsoonco</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3AE3449-F5A7-4D0A-99CB-FBE03B2D8C27</key>
+		<string>https://github.com/deepthi-ca/Monsoonco_Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Monsoonco.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94004AF1-796F-476A-AAF1-1C44DDA4DF9F</key>
+		<string>../../../Monsoonco2</string>
+		<key>B3AE3449-F5A7-4D0A-99CB-FBE03B2D8C27</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deepthi-ca/Monsoonco_Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3AE3449-F5A7-4D0A-99CB-FBE03B2D8C27</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3AE3449-F5A7-4D0A-99CB-FBE03B2D8C27</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Monsoonco</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94004AF1-796F-476A-AAF1-1C44DDA4DF9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Monsoonco2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
